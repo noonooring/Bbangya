@@ -1,3 +1,5 @@
+#MainActivity.java 내용
+
 package (각자 패키지 이름);
 
 import androidx.annotation.NonNull;
